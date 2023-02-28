@@ -1,2 +1,2 @@
-# CPofIIS
-智能信息系统综合实践Comprehensive Practice of Intelligent Information System
+# 智能信息系统综合实践
+- 0_Python画图
