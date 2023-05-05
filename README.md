@@ -6,5 +6,6 @@
 - [4_贝叶斯分类](4_贝叶斯分类器.ipynb)
 - [5_聚类](5_聚类.ipynb)
 - [6_集成学习](6_集成学习.ipynb)
-- 7_目标检测
-- 8_目标分割
+- [7_目标检测](https://github.com/DetectionTeamUCAS/Faster-RCNN_Tensorflow)
+  - [new](https://github.com/chzhqk1994/Faster-RCNN_Tensorflow)
+- [8_目标分割](https://github.com/twpkevin06222/Gland-Segmentation)
