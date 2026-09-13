@@ -9,3 +9,7 @@
 - [7_目标检测](https://github.com/DetectionTeamUCAS/Faster-RCNN_Tensorflow)
   - [new](https://github.com/chzhqk1994/Faster-RCNN_Tensorflow)
 - [8_目标分割](https://github.com/twpkevin06222/Gland-Segmentation)
+
+## 课程分享
+
+- [课程分享资料](./课程分享/)
